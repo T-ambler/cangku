@@ -10,3 +10,4 @@ Creating a new branch is quick AND simple
 >>>>>>> feature1
 Creating a new branch is quick and simple
 分支管理策略
+分支管理策略2
